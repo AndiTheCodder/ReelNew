@@ -1,0 +1,1 @@
+{ "builds": [ { "src": "app/page.tsx", "use": "@vercel/next" } ] }
